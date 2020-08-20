@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Benedikt Riedel
 
 # Username (this should match the folder name)
 authors:
@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Global Computing Coordinator IceCube Neutrino Observatory
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Wisconsin
+  url: "https://www.wisc.edu/"
+- name: Wisconsin IceCube Particle Astrophysics Center
+  url: "https://www.wipac.wisc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed systems, grid computing, high throughput computing, high-performance computing
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
 - Information Retrieval
 
 education:
