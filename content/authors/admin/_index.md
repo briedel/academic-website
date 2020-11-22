@@ -16,26 +16,34 @@ role: Global Computing Coordinator IceCube Neutrino Observatory
 organizations:
 - name: University of Wisconsin
   url: "https://www.wisc.edu/"
+- name: "IceCube Neutrino Observatory"
+  url: "https://www.icecube.wisc.edu"
 - name: Wisconsin IceCube Particle Astrophysics Center
   url: "https://www.wipac.wisc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed systems, grid computing, high throughput computing, high-performance computing
+bio: 
 
 interests:
-- Information Retrieval
+- Distributed systems
+- Cloud Computing
+- Grid computing
+- Data Science
+- Data Engineering
+- High Throughput Computing
+- High-Performance Computing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Physics
+    institution: University of Wisconsin-Madison
+    year: 2014
+  - course: MA in Physics
+    institution: University of Wisconsin-Madison
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BS in Physics and Mathematics/Economics
+    institution: University of Southern California
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +52,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:briedel@icecube.wisc.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/neutrinonoise
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=58debrEAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/briedel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +69,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mailto:briedel@icecube.wisc.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +78,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+test test test
